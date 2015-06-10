@@ -1,0 +1,38 @@
+
+<style>
+
+body {
+	background:#000000;
+}
+
+#searchbox2 {
+
+}
+
+#searchbox2 input {
+    background: url(search-white.png) no-repeat 15px 4px #ffffff;
+    border: 1px solid #000000;
+	border-style: outset;
+    font: bold 12px Arial,Helvetica,Sans-serif;
+	text-align:center;
+    color: #000000;
+    width: 175px;
+	height:18px;
+    padding: 2px 2px 2px 2px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    
+    
+    }
+
+#searchbox2 input:focus {
+    width: 185px;
+    }	
+	
+
+
+
+
+</style>
+	

@@ -1,0 +1,4 @@
+<div id='search_container'>
+			<form method="post" action="searchpagnation.php" id="searchbox2">
+			<input name="term" type="text" size="40" placeholder="Search for Artist or Album...." />
+			</form>
